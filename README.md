@@ -123,7 +123,7 @@ title خواهد بود). برای نمایش این دو بخش از Bottom Nav
 - minSdkVersion = 17 & targetSdkVersion = compileSdkVersion = 29
 
 &#x202b;
-- Good enough is enough!
+- !Good enough is enough
 
 &#x202b;
 - تصمیم درباره جزییات بیشتر راه حل و پیاده سازی به اختیار شماست، پس سعی کنید مناسب ترین پیاده سازی که فکر می کنید را داشته
