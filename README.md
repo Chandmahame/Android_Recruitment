@@ -1,8 +1,9 @@
 # Android_Recruitment
+<div dir="rtl">
+	
 &#x202b; 
 پروژه چالش فنی اندروید-خرداد ۹۹
 
-<div dir="rtl">
 
 &#x202b;
 # شرح پروژه:
@@ -92,6 +93,7 @@ title خواهد بود). برای نمایش این دو بخش از Bottom Nav
 &#x202b;
 قالب یک نمونه notification در پاسخ URL فوق:
 </br>
+</div>
 
 ```
 {
